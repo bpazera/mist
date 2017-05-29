@@ -7,9 +7,9 @@
                 "linux": {
                     "x64": {
                         "download": {
-                            "url": "http://pivko.org/ot/geth-linux-amd64.zip",
-                            "type": "zip",
-                            "md5": "96dfade129ef34a958c6704d24977ad5",
+                            "url": "http://pivko.org/ot/geth-linux-amd64.tar.gz",
+                            "type": "tar",
+                            "md5": "c87e86c5a6036815e9385168d806c12c",
                             "bin": "geth"
                         },
                         "bin": "geth",
