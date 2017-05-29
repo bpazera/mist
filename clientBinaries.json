@@ -9,8 +9,8 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-linux-amd64.tar.gz",
                             "type": "tar",
-                            "md5": "c87e86c5a6036815e9385168d806c12c",
-                            "bin": "geth"
+                            "md5": "ec922f11b05299e2a0089ac6ff2df39e",
+                            "bin": "geth-linux-amd64/geth"
                         },
                         "bin": "geth",
                         "commands": {
