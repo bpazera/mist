@@ -10,7 +10,7 @@
                             "url": "http://pivko.org/ot/geth-linux-amd64.zip",
                             "type": "zip",
                             "md5": "96dfade129ef34a958c6704d24977ad5",
-                            "bin": "geth-linux-amd64/geth"
+                            "bin": "geth"
                         },
                         "bin": "geth",
                         "commands": {
@@ -25,7 +25,7 @@
                             "url": "http://pivko.org/ot/geth-linux-amd64.zip",
                             "type": "tar",
                             "md5": "96dfade129ef34a958c6704d24977ad5",
-                            "bin": "geth-linux-amd64/geth"
+                            "bin": "geth"
                         },
                         "bin": "geth",
                         "commands": {
