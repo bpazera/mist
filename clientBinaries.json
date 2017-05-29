@@ -7,10 +7,10 @@
                 "linux": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.6.0-facc47cb.tar.gz",
-                            "type": "tar",
-                            "md5": "048b0618696b040f6d3ff18ee2e5763a",
-                            "bin": "geth-linux-amd64-1.6.0-facc47cb/geth"
+                            "url": "http://pivko.org/ot/geth-linux-amd64.zip",
+                            "type": "zip",
+                            "md5": "96dfade129ef34a958c6704d24977ad5",
+                            "bin": "geth-linux-amd64/geth"
                         },
                         "bin": "geth",
                         "commands": {
@@ -22,10 +22,10 @@
                     },
                     "ia32": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-linux-386-1.6.0-facc47cb.tar.gz",
+                            "url": "http://pivko.org/ot/geth-linux-amd64.zip",
                             "type": "tar",
-                            "md5": "44215076b4d50e079878bcabeaae2117",
-                            "bin": "geth-linux-386-1.6.0-facc47cb/geth"
+                            "md5": "96dfade129ef34a958c6704d24977ad5",
+                            "bin": "geth-linux-amd64/geth"
                         },
                         "bin": "geth",
                         "commands": {
@@ -39,10 +39,10 @@
                 "mac": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-darwin-amd64-1.6.0-facc47cb.tar.gz",
+                            "url": "http://pivko.org/ot/geth-darwin-10.6-amd64.zip",
                             "type": "tar",
-                            "md5": "446308f1d702bf5d30892bda43c25d23",
-                            "bin": "geth-darwin-amd64-1.6.0-facc47cb/geth"
+                            "md5": "df23b391282a2c1ebd3afad657d73864",
+                            "bin": "geth-darwin-10.6-amd64/geth"
                         },
                         "bin": "geth",
                         "commands": {
@@ -56,10 +56,10 @@
                 "win": {
                     "x64": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.6.0-facc47cb.zip",
+                            "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "e4bb82c4d7078269a932cb7d46c5acb4",
-                            "bin": "geth-windows-amd64-1.6.0-facc47cb\\geth.exe"
+                            "md5": "6186b6aea1936074b643a8b535aa90f4",
+                            "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
                         "commands": {
@@ -71,10 +71,10 @@
                     },
                     "ia32": {
                         "download": {
-                            "url": "https://gethstore.blob.core.windows.net/builds/geth-windows-386-1.6.0-facc47cb.zip",
+                            "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "0935e22c5626c73b9f0b556b3323c71a",
-                            "bin": "geth-windows-386-1.6.0-facc47cb\\geth.exe"
+                            "md5": "6186b6aea1936074b643a8b535aa90f4",
+                            "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
                         "commands": {
