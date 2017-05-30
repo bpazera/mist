@@ -58,8 +58,8 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "6186b6aea1936074b643a8b535aa90f4",
-                            "bin": "geth.exe"
+                            "md5": "e8e554ddda5ec448764b1db1aa805416",
+                            "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
                         "commands": {
@@ -73,8 +73,8 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "6186b6aea1936074b643a8b535aa90f4",
-                            "bin": "geth.exe"
+                            "md5": "e8e554ddda5ec448764b1db1aa805416",
+                            "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
                         "commands": {
