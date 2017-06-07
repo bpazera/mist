@@ -9,7 +9,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-linux-amd64.tar.gz",
                             "type": "tar",
-                            "md5": "ec922f11b05299e2a0089ac6ff2df39e",
+                            "md5": "2e23cbfeee7d544ee6e68c7e7117a4df",
                             "bin": "geth-linux-amd64/geth"
                         },
                         "bin": "geth",
@@ -24,7 +24,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-linux-amd64.zip",
                             "type": "tar",
-                            "md5": "96dfade129ef34a958c6704d24977ad5",
+                            "md5": "478975bd6f8d94447a869bc85854df70",
                             "bin": "geth"
                         },
                         "bin": "geth",
@@ -39,9 +39,9 @@
                 "mac": {
                     "x64": {
                         "download": {
-                            "url": "http://pivko.org/ot/geth-darwin-10.6-amd64.zip",
+                            "url": "http://pivko.org/ot/geth-darwin-10.6-amd64.tar.gz",
                             "type": "tar",
-                            "md5": "df23b391282a2c1ebd3afad657d73864",
+                            "md5": "359930eef24f254db13de90d4a2906fa",
                             "bin": "geth-darwin-10.6-amd64/geth"
                         },
                         "bin": "geth",
@@ -58,7 +58,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "e8e554ddda5ec448764b1db1aa805416",
+                            "md5": "15a50fd9a8312d08227b99b0a2630096",
                             "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
@@ -73,7 +73,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "e8e554ddda5ec448764b1db1aa805416",
+                            "md5": "15a50fd9a8312d08227b99b0a2630096",
                             "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
