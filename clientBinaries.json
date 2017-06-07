@@ -1,4 +1,3 @@
-
 {
     "clients": {
         "Geth": {
@@ -9,7 +8,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-linux-amd64.tar.gz",
                             "type": "tar",
-                            "md5": "2e23cbfeee7d544ee6e68c7e7117a4df",
+                            "md5": "45ae25b15adeed79bc793a8a5670423d",
                             "bin": "geth-linux-amd64/geth"
                         },
                         "bin": "geth",
@@ -24,7 +23,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-linux-amd64.zip",
                             "type": "tar",
-                            "md5": "478975bd6f8d94447a869bc85854df70",
+                            "md5": "ac2409f15915260ea8fb3388dbf0996c",
                             "bin": "geth"
                         },
                         "bin": "geth",
@@ -41,7 +40,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-darwin-10.6-amd64.tar.gz",
                             "type": "tar",
-                            "md5": "359930eef24f254db13de90d4a2906fa",
+                            "md5": "8816d2233e367d970c8e8598e5f5d0ab",
                             "bin": "geth-darwin-10.6-amd64/geth"
                         },
                         "bin": "geth",
@@ -58,7 +57,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "15a50fd9a8312d08227b99b0a2630096",
+                            "md5": "d6e153fb371a314b68867e7c520ee7a4",
                             "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
@@ -73,7 +72,7 @@
                         "download": {
                             "url": "http://pivko.org/ot/geth-windows-4.0-amd64.zip",
                             "type": "zip",
-                            "md5": "15a50fd9a8312d08227b99b0a2630096",
+                            "md5": "d6e153fb371a314b68867e7c520ee7a4",
                             "bin": "geth-windows-4.0-amd64\\geth.exe"
                         },
                         "bin": "geth.exe",
